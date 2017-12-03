@@ -108,6 +108,48 @@
             <span class="nav-link-text">Siruseri Switch Details</span>
           </a>
         </li>
+        <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Example Pages">
+          <a class="nav-link nav-link-collapse collapsed" data-toggle="collapse" href="#collapseExamplePages2" data-parent="#exampleAccordion">
+            <i class="fa fa-fw fa-file"></i>
+            <span class="nav-link-text">ISP Details-Siruseri/TTK</span>
+          </a>
+          <ul class="sidenav-second-level collapse" id="collapseExamplePages2">
+            <li>
+              <a href="isp.php">All Details</a>
+            </li>
+            <li>
+              <a href="publicip.php">Siruseri Public IP List</a>
+            </li>
+            
+          </ul>
+        </li>
+        <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Tables">
+          <a class="nav-link" href="essl.php">
+            <i class="fa fa-fw fa fa-address-card"></i>
+            <span class="nav-link-text">ESSL Details</span>
+          </a>
+        </li>
+        <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Tables">
+          <a class="nav-link" href="speeddial.php">
+            <i class="fa fa-fw fa fa-address-card"></i>
+            <span class="nav-link-text">Speed Dial Details</span>
+          </a>
+        </li>
+         <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Example Pages">
+          <a class="nav-link nav-link-collapse collapsed" data-toggle="collapse" href="#collapseExamplePages3" data-parent="#exampleAccordion">
+            <i class="fa fa-fw fa-file"></i>
+            <span class="nav-link-text">ISP-NY-Information</span>
+          </a>
+          <ul class="sidenav-second-level collapse" id="collapseExamplePages3">
+            <li>
+              <a href="ny-publicip.php">Public IP Details</a>
+            </li>
+            <li>
+              <a href="publicip.php">Data Port Of Users</a>
+            </li>
+            
+          </ul>
+        </li>
         <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Menu Levels">
           <a class="nav-link nav-link-collapse collapsed" data-toggle="collapse" href="#collapseMulti" data-parent="#exampleAccordion">
             <i class="fa fa-fw fa-sitemap"></i>
